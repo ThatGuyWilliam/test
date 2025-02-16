@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tPia+6Q8t00Cw4e0tSsIgc1uKMKcxZCa5GMemTMSbnl0+3gN5h2deOERG1S2SkP5ocxHjbar5Rl2gBbbFlQYkw==",
+  "dgSpecHash": "qAnw0N/HuW22/gkr7bEhLNtW4vIEMpeuVGZqUlD9m2QhmS0o4FG8xNPUjRdIt0DeEziS34NwbgetECvxzaoEdQ==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\SkillTest\\SkillTest.csproj",
+  "projectFilePath": "C:\\Users\\William\\Desktop\\test\\test\\SkillTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\William\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\William\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

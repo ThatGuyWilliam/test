@@ -1,38 +1,36 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Projects\\SkillTest\\",
+  "WorkspaceRootPath": "C:\\Users\\William\\Desktop\\test\\test\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\SkillTest\\SkillAssesment\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SkillAssesment\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\SkillTest\\SkillAssesment\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8C3282C-AB2D-4FB4-930B-8E5BFB8D3117}|SkillTest.csproj|d:\\projects\\skilltest\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B8C3282C-AB2D-4FB4-930B-8E5BFB8D3117}|SkillTest.csproj|c:\\users\\william\\desktop\\test\\test\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B8C3282C-AB2D-4FB4-930B-8E5BFB8D3117}|SkillTest.csproj|solutionrelative:migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8C3282C-AB2D-4FB4-930B-8E5BFB8D3117}|SkillTest.csproj|d:\\projects\\skilltest\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B8C3282C-AB2D-4FB4-930B-8E5BFB8D3117}|SkillTest.csproj|c:\\users\\william\\desktop\\test\\test\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B8C3282C-AB2D-4FB4-930B-8E5BFB8D3117}|SkillTest.csproj|solutionrelative:controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8C3282C-AB2D-4FB4-930B-8E5BFB8D3117}|SkillTest.csproj|d:\\projects\\skilltest\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B8C3282C-AB2D-4FB4-930B-8E5BFB8D3117}|SkillTest.csproj|c:\\users\\william\\desktop\\test\\test\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B8C3282C-AB2D-4FB4-930B-8E5BFB8D3117}|SkillTest.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8C3282C-AB2D-4FB4-930B-8E5BFB8D3117}|SkillTest.csproj|d:\\projects\\skilltest\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B8C3282C-AB2D-4FB4-930B-8E5BFB8D3117}|SkillTest.csproj|c:\\users\\william\\desktop\\test\\test\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B8C3282C-AB2D-4FB4-930B-8E5BFB8D3117}|SkillTest.csproj|solutionrelative:models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8C3282C-AB2D-4FB4-930B-8E5BFB8D3117}|SkillTest.csproj|d:\\projects\\skilltest\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B8C3282C-AB2D-4FB4-930B-8E5BFB8D3117}|SkillTest.csproj|c:\\users\\william\\desktop\\test\\test\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B8C3282C-AB2D-4FB4-930B-8E5BFB8D3117}|SkillTest.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8C3282C-AB2D-4FB4-930B-8E5BFB8D3117}|SkillTest.csproj|d:\\projects\\skilltest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B8C3282C-AB2D-4FB4-930B-8E5BFB8D3117}|SkillTest.csproj|c:\\users\\william\\desktop\\test\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B8C3282C-AB2D-4FB4-930B-8E5BFB8D3117}|SkillTest.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\SkillTest\\SkillAssesment\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SkillAssesment\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\SkillTest\\SkillAssesment\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -49,9 +47,7 @@
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Projects\\SkillTest\\SkillAssesment\\Program.cs",
-              "RelativeDocumentMoniker": "SkillAssesment\\Program.cs",
               "ToolTip": "D:\\Projects\\SkillTest\\SkillAssesment\\Program.cs",
-              "RelativeToolTip": "SkillAssesment\\Program.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-16T13:59:03.138Z"
             },
@@ -59,9 +55,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ApplicationDbContextModelSnapshot.cs",
-              "DocumentMoniker": "D:\\Projects\\SkillTest\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\William\\Desktop\\test\\test\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ToolTip": "D:\\Projects\\SkillTest\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\William\\Desktop\\test\\test\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "RelativeToolTip": "Migrations\\ApplicationDbContextModelSnapshot.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -72,9 +68,7 @@
               "DocumentIndex": 7,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\Projects\\SkillTest\\SkillAssesment\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "SkillAssesment\\ApplicationDbContext.cs",
               "ToolTip": "D:\\Projects\\SkillTest\\SkillAssesment\\ApplicationDbContext.cs",
-              "RelativeToolTip": "SkillAssesment\\ApplicationDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-16T13:56:15.176Z"
@@ -83,9 +77,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "UserController.cs",
-              "DocumentMoniker": "D:\\Projects\\SkillTest\\Controllers\\UserController.cs",
+              "DocumentMoniker": "C:\\Users\\William\\Desktop\\test\\test\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Controllers\\UserController.cs",
-              "ToolTip": "D:\\Projects\\SkillTest\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\William\\Desktop\\test\\test\\Controllers\\UserController.cs",
               "RelativeToolTip": "Controllers\\UserController.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAIwEIAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -96,9 +90,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "TaskController.cs",
-              "DocumentMoniker": "D:\\Projects\\SkillTest\\Controllers\\TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\William\\Desktop\\test\\test\\Controllers\\TaskController.cs",
               "RelativeDocumentMoniker": "Controllers\\TaskController.cs",
-              "ToolTip": "D:\\Projects\\SkillTest\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\William\\Desktop\\test\\test\\Controllers\\TaskController.cs",
               "RelativeToolTip": "Controllers\\TaskController.cs",
               "ViewState": "AQIAAHoAAAAAAAAAAAAAwJkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -109,9 +103,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Task.cs",
-              "DocumentMoniker": "D:\\Projects\\SkillTest\\Models\\Task.cs",
+              "DocumentMoniker": "C:\\Users\\William\\Desktop\\test\\test\\Models\\Task.cs",
               "RelativeDocumentMoniker": "Models\\Task.cs",
-              "ToolTip": "D:\\Projects\\SkillTest\\Models\\Task.cs",
+              "ToolTip": "C:\\Users\\William\\Desktop\\test\\test\\Models\\Task.cs",
               "RelativeToolTip": "Models\\Task.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -121,9 +115,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "User.cs",
-              "DocumentMoniker": "D:\\Projects\\SkillTest\\Models\\User.cs",
+              "DocumentMoniker": "C:\\Users\\William\\Desktop\\test\\test\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "D:\\Projects\\SkillTest\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\William\\Desktop\\test\\test\\Models\\User.cs",
               "RelativeToolTip": "Models\\User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -133,9 +127,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Projects\\SkillTest\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\William\\Desktop\\test\\test\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Projects\\SkillTest\\Program.cs",
+              "ToolTip": "C:\\Users\\William\\Desktop\\test\\test\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
