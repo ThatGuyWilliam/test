@@ -1,0 +1,6 @@
+@SkillTest_HostAddress = http://localhost:5063
+
+GET {{SkillTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
